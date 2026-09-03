@@ -1,8 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Ariq Fathi Mushaffa
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Ariq%20Fathi%20Mushaffa&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-### 💻 Software Engineering Student | Aspiring Web Developer
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A11CB&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Web+%26+Software+Developer;Always+Learning+New+Things;Welcome+to+My+Profile+%F0%9F%91%8B" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -36,7 +40,6 @@ Saya adalah siswa Sekolah Menengah Kejuruan (SMK) dengan konsentrasi keahlian **
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariq-fathi-136375428/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ariq-stack)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ariq.fathi/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PLACEHOLDER_USERNAME)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ariqfathi@gmail.com)
 
 </div>
@@ -47,6 +50,6 @@ Saya adalah siswa Sekolah Menengah Kejuruan (SMK) dengan konsentrasi keahlian **
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ariq-stack&color=blueviolet&style=for-the-badge)
 
-*Thanks for visiting my profile! 🚀*
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=120&section=footer" width="100%"/>
